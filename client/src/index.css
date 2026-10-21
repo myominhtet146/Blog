@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.form{
+    @apply border text-sm rounded-lg w-full p-2.5 mb-3 mt-3 text-gray-600;
+}
